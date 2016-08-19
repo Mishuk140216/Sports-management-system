@@ -1,0 +1,29 @@
+c:\users\subrato\documents\visual studio 2010\Projects\Sports Management System (SMS)\Sports Management System (SMS)\bin\Debug\Sports Management System (SMS).exe
+c:\users\subrato\documents\visual studio 2010\Projects\Sports Management System (SMS)\Sports Management System (SMS)\bin\Debug\Sports Management System (SMS).pdb
+c:\users\subrato\documents\visual studio 2010\Projects\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports_Management_System__SMS_.mainform.resources
+c:\users\subrato\documents\visual studio 2010\Projects\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports_Management_System__SMS_.Properties.Resources.resources
+c:\users\subrato\documents\visual studio 2010\Projects\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports Management System (SMS).csproj.GenerateResource.Cache
+c:\users\subrato\documents\visual studio 2010\Projects\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports Management System (SMS).exe
+c:\users\subrato\documents\visual studio 2010\Projects\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports Management System (SMS).pdb
+C:\Users\Subrato\documents\visual studio 2010\Projects\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports Management System (SMS).csprojResolveAssemblyReference.cache
+C:\Users\Subrato\documents\visual studio 2010\Projects\Sports Management System (SMS)\Sports Management System (SMS)\bin\Debug\ZedGraph.dll
+C:\Users\Subrato\documents\visual studio 2010\Projects\Sports Management System (SMS)\Sports Management System (SMS)\bin\Debug\ZedGraph.xml
+C:\Users\Subrato\documents\visual studio 2010\Projects\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports_Management_System__SMS_.Cricket.resources
+C:\Users\Subrato\documents\visual studio 2010\Projects\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports_Management_System__SMS_.Cricket_Entry.resources
+C:\Users\Subrato\documents\visual studio 2010\Projects\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports_Management_System__SMS_.Cricket_Info.resources
+C:\Users\Subrato\documents\visual studio 2010\Projects\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports_Management_System__SMS_.Cricket_Compare.resources
+J:\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports Management System (SMS).exe
+J:\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports Management System (SMS).pdb
+J:\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports Management System (SMS).csprojResolveAssemblyReference.cache
+J:\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports_Management_System__SMS_.Cricket.resources
+J:\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports_Management_System__SMS_.Cricket_Compare.resources
+J:\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports_Management_System__SMS_.Cricket_Entry.resources
+J:\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports_Management_System__SMS_.Cricket_Info.resources
+J:\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports_Management_System__SMS_.mainform.resources
+J:\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports_Management_System__SMS_.Properties.Resources.resources
+J:\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports Management System (SMS).csproj.GenerateResource.Cache
+J:\Sports Management System (SMS)\Sports Management System (SMS)\bin\Debug\Sports Management System (SMS).exe
+J:\Sports Management System (SMS)\Sports Management System (SMS)\bin\Debug\Sports Management System (SMS).pdb
+J:\Sports Management System (SMS)\Sports Management System (SMS)\bin\Debug\ZedGraph.xml
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports Management System (SMS).exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Sports Management System (SMS)\Sports Management System (SMS)\obj\x86\Debug\Sports Management System (SMS).pdb
